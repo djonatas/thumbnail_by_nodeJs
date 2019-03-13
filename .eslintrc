@@ -1,0 +1,15 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 6
+  },
+  "plugins": [
+    "jsx-a11y"
+  ],
+  "rules": {
+    "func-names": ["error", "never"],
+    "quotes": ["error", "single"]
+  },
+  "env": {
+    "node": true
+  }
+}
