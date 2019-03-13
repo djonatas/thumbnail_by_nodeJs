@@ -6,3 +6,6 @@ Create your thumbnail by parameters
 
 
 This tool is very simple, I created this to understanging the use Sharp module (https://github.com/lovell/sharp).
+
+This sample is content the book https://www.packtpub.com/web-development/hands-microservices-nodejs
+
